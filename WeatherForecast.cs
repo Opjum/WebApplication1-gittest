@@ -15,6 +15,11 @@ namespace WebApplication1
         {
             return "test giit";
         }
+        public void abcd()
+        {
+            string abc = "abc";
+        }
+
     }
     
 }
